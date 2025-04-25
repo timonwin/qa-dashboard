@@ -38,27 +38,27 @@ This QA Risk Dashboard was developed as a solution to prevent system integration
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](./images/dashboard-overview.png)
+![Dashboard Overview](./images/dashboard-overview)
 *Main dashboard showing summary cards for incomplete tasks and high-risk issues*
 
 ### Filtered View
-![Filtered View](./images/filtered-view.png)
+![Filtered View](./images/filtered-view)
 *Table filtered to show only high-risk issues*
 
 ### Task Table
-![Task Table](./images/task-table.png)
+![Task Table](./images/task-table)
 *Responsive table displaying all QA tasks with completion status and risk levels*
 
 ### Risk Alerts
-![Risk Alerts](./images/risk-alerts.png)
+![Risk Alerts](./images/risk-alerts)
 *Slack-style warning cards for high-risk items grouped by department*
 
 ### Alert Details
-![Alert Details](./images/alert-details.png)
+![Alert Details](./images/alert-details)
 *Expanded alert showing details and allowing for team communication*
 
 ### QA Checklist
-![QA Checklist](./images/qa-checklist.png)
+![QA Checklist](./images/qa-checklist)
 *Interactive checklist organized by department for tracking completion*
 
 ## Demo
