@@ -4,8 +4,6 @@ A web application for tracking quality assurance tasks, risk levels, and providi
 
 ## Live Demo
 
-[View the live application](https://v0-simple-qa-dashboard.vercel.app/)
-
 https://v0-simple-qa-dashboard.vercel.app/
 
 ## Overview
