@@ -63,7 +63,11 @@ This QA Risk Dashboard was developed as a solution to prevent system integration
 
 ## Demo
 
-[View the live application](https://v0-simple-qa-dashboard.vercel.app/)
+### Live Application
+**Live Demo URL:** https://v0-simple-qa-dashboard.vercel.app/
+
+### Video Walkthrough
+[Download the video demo](./video/dashboard-demo.mp4) to see a walkthrough of the application's features.
 
 ## Technologies Used
 
