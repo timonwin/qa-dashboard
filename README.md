@@ -6,6 +6,8 @@ A web application for tracking quality assurance tasks, risk levels, and providi
 
 [View the live application](https://v0-simple-qa-dashboard.vercel.app/)
 
+https://v0-simple-qa-dashboard.vercel.app/
+
 ## Overview
 
 This QA Risk Dashboard was developed as a solution to prevent system integration failures like the "Payroll Meltdown" scenario inspired by UK Rail System and "The Phoenix Project." The dashboard helps validate systems integrations, track cross-team dependencies, and sends alerts before going live.
@@ -35,8 +37,6 @@ This QA Risk Dashboard was developed as a solution to prevent system integration
 
 ## Screenshots
 
-## Screenshots
-
 ### Dashboard Overview
 ![Dashboard Overview](./images/dashboard-overview)
 *Main dashboard showing summary cards for incomplete tasks and high-risk issues*
@@ -60,10 +60,6 @@ This QA Risk Dashboard was developed as a solution to prevent system integration
 ### QA Checklist
 ![QA Checklist](./images/qa-checklist)
 *Interactive checklist organized by department for tracking completion*
-
-## Live Demo
-
-https://v0-simple-qa-dashboard.vercel.app/
 
 ## Video Walkthrough
 
