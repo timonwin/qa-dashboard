@@ -65,6 +65,10 @@ This QA Risk Dashboard was developed as a solution to prevent system integration
 
 https://v0-simple-qa-dashboard.vercel.app/
 
+## Video Walkthrough
+
+https://youtu.be/OpK_aLamGSg
+
 ## Technologies Used
 
 - React.js
